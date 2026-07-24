@@ -1,13 +1,13 @@
 # Analyse de la Performance Commerciale et du Risque Client — FINBANK IVOIR
 
-Projet réalisé dans le cadre du module **SAS** — Master 1 DATA-IA, Université Polytechnique de Bingerville (UPB), Année académique 2025-2026.
+Projet réalisé dans le cadre du module **SAS**  Master 1 DATA-IA, Université Polytechnique de Bingerville (UPB), Année académique : 2025-2026.
 
 **Auteur :** YAO MIÉZAN SAM WILLIAM
 **Enseignant :** M. N'DRAMAN
 
 ## Contexte
 
-La banque fictive FINBANK IVOIR souhaite exploiter plus efficacement ses données pour :
+La banque FINBANK IVOIR souhaite exploiter plus efficacement ses données pour :
 - évaluer la rentabilité de ses clients,
 - identifier les clients à risque élevé,
 - analyser la performance de ses agences,
@@ -63,4 +63,4 @@ Le détail complet des analyses, graphiques et recommandations est disponible da
 
 ## Licence
 
-Projet académique — usage pédagogique.
+Projet académique à usage pédagogique.
