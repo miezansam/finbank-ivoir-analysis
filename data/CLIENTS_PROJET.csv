@@ -1,0 +1,301 @@
+ID_Client,Nom,Sexe,Age,Ville,Profession,Anciennete,Revenu_Mensuel,Agence
+1001,Client_1,M,22,Yamoussoukro,Commerçant,4,735264.0,Plateau
+1002,Client_2,M,58,San Pedro,Cadre,1,542986.0,Cocody
+1003,Client_3,M,53,Korhogo,Cadre,9,983985.0,Bouaké
+1004,Client_4,M,49,Korhogo,Fonctionnaire,13,177257.0,Cocody
+1005,Client_5,F,42,Yamoussoukro,Commerçant,4,1561779.0,Plateau
+1006,Client_6,M,45,Abidjan,,14,1592654.0,Yopougon
+1007,Client_7,M,50,Korhogo,Cadre,15,1737688.0,Plateau
+1008,Client_8,F,60,Yamoussoukro,Étudiant,4,441735.0,Plateau
+1009,Client_9,M,39,Abidjan,Commerçant,14,573630.0,Bouaké
+1010,Client_10,F,50,Yamoussoukro,Commerçant,6,1640113.0,Cocody
+1011,Client_11,F,25,Korhogo,Commerçant,9,1176811.0,Cocody
+1012,Client_12,F,45,Yamoussoukro,Étudiant,4,1510140.0,Plateau
+1013,Client_13,M,23,Yamoussoukro,Entrepreneur,5,427615.0,Cocody
+1014,Client_14,F,34,San Pedro,Entrepreneur,15,2074564.0,Cocody
+1015,Client_15,F,29,Bouaké,Étudiant,9,1252018.0,Bouaké
+1016,Client_16,F,44,Bouaké,Commerçant,9,2219955.0,Plateau
+1017,Client_17,M,28,Bouaké,Commerçant,13,1920667.0,Plateau
+1018,Client_18,F,45,Korhogo,Entrepreneur,9,1204507.0,Plateau
+1019,Client_19,M,55,Yamoussoukro,Fonctionnaire,2,1381028.0,Bouaké
+1020,Client_20,M,50,Abidjan,Fonctionnaire,9,899320.0,Plateau
+1021,Client_21,F,53,Korhogo,Commerçant,3,,Cocody
+1022,Client_22,M,59,Yamoussoukro,Entrepreneur,1,619207.0,Yopougon
+1023,Client_23,F,36,Abidjan,Commerçant,15,480331.0,Plateau
+1024,Client_24,F,25,Korhogo,Commerçant,3,2143478.0,Cocody
+1025,Client_25,F,54,Korhogo,Entrepreneur,4,2411971.0,Cocody
+1026,Client_26,F,46,Yamoussoukro,Entrepreneur,15,2320870.0,Bouaké
+1027,Client_27,M,36,Bouaké,Cadre,6,238224.0,Cocody
+1028,Client_28,M,21,Abidjan,Cadre,4,432697.0,Plateau
+1029,Client_29,F,25,Korhogo,Commerçant,5,2185975.0,Cocody
+1030,Client_30,M,57,Korhogo,Entrepreneur,4,2133792.0,Bouaké
+1031,Client_31,M,27,Abidjan,Entrepreneur,6,1926617.0,Bouaké
+1032,Client_32,F,24,Abidjan,Cadre,7,1573138.0,Plateau
+1033,Client_33,M,33,Bouaké,Étudiant,8,737967.0,Bouaké
+1034,Client_34,M,38,San Pedro,Commerçant,14,466187.0,Bouaké
+1035,Client_35,M,24,Korhogo,Cadre,2,1141447.0,Cocody
+1036,Client_36,F,52,San Pedro,Commerçant,14,1832084.0,Plateau
+1037,Client_37,M,45,Abidjan,Entrepreneur,5,2058443.0,Yopougon
+1038,Client_38,F,56,San Pedro,Commerçant,4,1394482.0,Cocody
+1039,Client_39,M,58,Korhogo,Cadre,12,1465353.0,Plateau
+1040,Client_40,M,58,San Pedro,Étudiant,15,2377704.0,Cocody
+1041,Client_41,M,53,Abidjan,Commerçant,2,435048.0,Cocody
+1042,Client_42,F,28,Korhogo,Commerçant,10,316688.0,Plateau
+1043,Client_43,F,58,Korhogo,Étudiant,6,1243730.0,Cocody
+1044,Client_44,F,36,Yamoussoukro,Entrepreneur,3,1408278.0,Bouaké
+1045,Client_45,F,25,Abidjan,Entrepreneur,10,569351.0,Plateau
+1046,Client_46,M,53,Yamoussoukro,Commerçant,15,1613849.0,Plateau
+1047,Client_47,M,44,Yamoussoukro,Commerçant,8,2428421.0,Yopougon
+1048,Client_48,M,56,Yamoussoukro,Cadre,15,713257.0,Yopougon
+1049,Client_49,M,27,Korhogo,Commerçant,5,1331771.0,Cocody
+1050,Client_50,F,34,Yamoussoukro,Étudiant,8,1203278.0,Plateau
+1051,Client_51,M,48,Yamoussoukro,Cadre,1,1549037.0,Cocody
+1052,Client_52,F,31,San Pedro,Étudiant,12,1943848.0,Plateau
+1053,Client_53,M,25,Bouaké,Étudiant,1,1698604.0,Cocody
+1054,Client_54,F,29,Abidjan,Fonctionnaire,6,317331.0,Yopougon
+1055,Client_55,M,36,Abidjan,Fonctionnaire,13,2498321.0,Bouaké
+1056,Client_56,M,36,Bouaké,Commerçant,15,1879288.0,Plateau
+1057,Client_57,M,42,San Pedro,Commerçant,5,817724.0,Plateau
+1058,Client_58,F,23,San Pedro,Commerçant,4,2080651.0,Yopougon
+1059,Client_59,F,35,Bouaké,Cadre,11,960045.0,Bouaké
+1060,Client_60,F,38,Abidjan,Fonctionnaire,6,2286602.0,Bouaké
+1061,Client_61,F,22,Abidjan,Fonctionnaire,3,1263446.0,Plateau
+1062,Client_62,M,59,San Pedro,Fonctionnaire,12,1465658.0,Bouaké
+1063,Client_63,M,45,Korhogo,Commerçant,5,336170.0,Bouaké
+1064,Client_64,M,54,Korhogo,Commerçant,6,1958992.0,Plateau
+1065,Client_65,F,60,Yamoussoukro,Cadre,12,1409642.0,Yopougon
+1066,Client_66,F,41,San Pedro,Fonctionnaire,9,683883.0,Cocody
+1067,Client_67,F,45,Bouaké,Étudiant,10,1412275.0,Bouaké
+1068,Client_68,M,40,Yamoussoukro,Commerçant,7,1501611.0,Bouaké
+1069,Client_69,F,49,Bouaké,Étudiant,8,861737.0,Plateau
+1070,Client_70,F,53,Korhogo,Fonctionnaire,2,1135110.0,Yopougon
+1071,Client_71,M,33,Bouaké,Cadre,1,1176944.0,Bouaké
+1072,Client_72,M,50,San Pedro,Étudiant,4,1760522.0,Bouaké
+1073,Client_73,F,36,Bouaké,Cadre,15,597059.0,Bouaké
+1074,Client_74,M,32,Korhogo,Entrepreneur,1,2487929.0,Cocody
+1075,Client_75,M,50,Bouaké,Entrepreneur,11,2377728.0,Yopougon
+1076,Client_76,F,60,Korhogo,Entrepreneur,14,2447941.0,Bouaké
+1077,Client_77,M,51,San Pedro,Fonctionnaire,13,1186998.0,Yopougon
+1078,Client_78,F,36,Yamoussoukro,Entrepreneur,2,1348430.0,Cocody
+1079,Client_79,F,42,Yamoussoukro,Étudiant,2,730382.0,Cocody
+1080,Client_80,M,45,Bouaké,Commerçant,2,1890082.0,Bouaké
+1081,Client_81,F,55,San Pedro,Entrepreneur,1,1017526.0,Bouaké
+1082,Client_82,F,58,Abidjan,Étudiant,7,2150598.0,Plateau
+1083,Client_83,F,40,San Pedro,Entrepreneur,9,2440644.0,Cocody
+1084,Client_84,F,35,Yamoussoukro,Entrepreneur,8,271738.0,Bouaké
+1085,Client_85,F,46,Bouaké,Entrepreneur,15,685309.0,Plateau
+1086,Client_86,F,58,Korhogo,Cadre,2,1947732.0,Cocody
+1087,Client_87,F,32,Abidjan,Fonctionnaire,7,1523016.0,Cocody
+1088,Client_88,F,41,Yamoussoukro,Entrepreneur,5,1918171.0,Yopougon
+1089,Client_89,M,51,Abidjan,Étudiant,1,1617840.0,Cocody
+1090,Client_90,M,23,Abidjan,Commerçant,4,235479.0,Cocody
+1091,Client_91,M,29,San Pedro,Cadre,10,1064209.0,Bouaké
+1092,Client_92,F,44,Bouaké,Étudiant,10,630385.0,Cocody
+1093,Client_93,F,27,Korhogo,Cadre,15,1458443.0,Bouaké
+1094,Client_94,F,33,Abidjan,Étudiant,12,1168584.0,Plateau
+1095,Client_95,F,59,Abidjan,Étudiant,13,322256.0,Yopougon
+1096,Client_96,F,44,Abidjan,Étudiant,11,1581227.0,Plateau
+1097,Client_97,F,52,Abidjan,Entrepreneur,6,2078286.0,Cocody
+1098,Client_98,F,32,Korhogo,Fonctionnaire,10,2407260.0,Bouaké
+1099,Client_99,F,48,Korhogo,Fonctionnaire,6,1179681.0,Plateau
+1100,Client_100,F,49,Bouaké,Entrepreneur,10,1739596.0,Yopougon
+1101,Client_101,M,52,Yamoussoukro,Commerçant,8,1039695.0,Yopougon
+1102,Client_102,F,42,Yamoussoukro,Étudiant,12,1308754.0,Plateau
+1103,Client_103,M,26,Bouaké,Entrepreneur,8,2478577.0,Cocody
+1104,Client_104,F,52,San Pedro,Cadre,2,1384113.0,Cocody
+1105,Client_105,F,36,Yamoussoukro,Étudiant,6,2134998.0,Yopougon
+1106,Client_106,F,56,Yamoussoukro,Fonctionnaire,12,2053145.0,Yopougon
+1107,Client_107,F,37,Bouaké,Cadre,12,957757.0,Yopougon
+1108,Client_108,M,55,Bouaké,Commerçant,4,2180876.0,Yopougon
+1109,Client_109,F,27,Bouaké,Fonctionnaire,4,1663644.0,Cocody
+1110,Client_110,F,21,Korhogo,Commerçant,5,340906.0,Plateau
+1111,Client_111,F,29,San Pedro,Cadre,14,201444.0,Yopougon
+1112,Client_112,F,51,San Pedro,Fonctionnaire,3,365489.0,Yopougon
+1113,Client_113,F,28,Abidjan,Entrepreneur,8,460723.0,Plateau
+1114,Client_114,M,30,Korhogo,Fonctionnaire,2,1190988.0,Plateau
+1115,Client_115,F,59,Korhogo,Étudiant,4,2341828.0,Bouaké
+1116,Client_116,F,49,Yamoussoukro,Étudiant,7,1430857.0,Plateau
+1117,Client_117,M,34,Bouaké,Fonctionnaire,11,490524.0,Cocody
+1118,Client_118,M,32,Korhogo,Cadre,3,161222.0,Bouaké
+1119,Client_119,F,59,San Pedro,Fonctionnaire,1,1120881.0,Yopougon
+1120,Client_120,F,50,Abidjan,Commerçant,15,1259622.0,Cocody
+1121,Client_121,F,28,Korhogo,Commerçant,11,774906.0,Yopougon
+1122,Client_122,M,25,Abidjan,Commerçant,13,1440217.0,Yopougon
+1123,Client_123,F,28,San Pedro,Fonctionnaire,12,1838243.0,Yopougon
+1124,Client_124,F,49,Abidjan,Étudiant,1,1962059.0,Yopougon
+1125,Client_125,F,22,Abidjan,Commerçant,11,237012.0,Yopougon
+1126,Client_126,M,32,San Pedro,Étudiant,11,2004844.0,Yopougon
+1127,Client_127,M,58,San Pedro,Entrepreneur,2,2121366.0,Yopougon
+1128,Client_128,F,42,Yamoussoukro,Cadre,14,824548.0,Yopougon
+1129,Client_129,F,52,Yamoussoukro,Entrepreneur,14,2457272.0,Plateau
+1130,Client_130,F,26,Yamoussoukro,Fonctionnaire,6,636210.0,Bouaké
+1131,Client_131,M,55,San Pedro,Entrepreneur,1,936778.0,Yopougon
+1132,Client_132,F,49,Abidjan,Commerçant,5,2453594.0,Cocody
+1133,Client_133,F,49,San Pedro,Cadre,1,1153686.0,Cocody
+1134,Client_134,F,56,Abidjan,Étudiant,7,540947.0,Cocody
+1135,Client_135,M,50,Abidjan,Commerçant,8,1374156.0,Yopougon
+1136,Client_136,F,51,San Pedro,Commerçant,8,2462173.0,Cocody
+1137,Client_137,F,33,Korhogo,Étudiant,12,722557.0,Plateau
+1138,Client_138,F,47,Yamoussoukro,Étudiant,5,160759.0,Yopougon
+1139,Client_139,F,58,Korhogo,Entrepreneur,14,773254.0,Bouaké
+1140,Client_140,F,43,Yamoussoukro,Étudiant,13,2429310.0,Bouaké
+1141,Client_141,F,41,Bouaké,Commerçant,10,1756296.0,Cocody
+1142,Client_142,F,23,Yamoussoukro,Entrepreneur,12,1748999.0,Bouaké
+1143,Client_143,M,52,Abidjan,Commerçant,9,1542486.0,Plateau
+1144,Client_144,F,27,Korhogo,Entrepreneur,1,754631.0,Bouaké
+1145,Client_145,M,25,San Pedro,Fonctionnaire,6,1817165.0,Plateau
+1146,Client_146,F,55,San Pedro,Fonctionnaire,11,2196600.0,Plateau
+1147,Client_147,M,36,Yamoussoukro,Commerçant,12,529078.0,Bouaké
+1148,Client_148,M,27,San Pedro,Commerçant,12,1406051.0,Plateau
+1149,Client_149,M,41,Abidjan,Fonctionnaire,6,1722197.0,Bouaké
+1150,Client_150,M,36,Korhogo,Entrepreneur,10,905213.0,Cocody
+1151,Client_151,M,26,Korhogo,Entrepreneur,10,1160113.0,Bouaké
+1152,Client_152,M,35,San Pedro,Fonctionnaire,8,1220917.0,Plateau
+1153,Client_153,F,39,Korhogo,Commerçant,2,2002748.0,Yopougon
+1154,Client_154,F,48,Yamoussoukro,Entrepreneur,14,1417190.0,Cocody
+1155,Client_155,F,51,Abidjan,Commerçant,7,1655583.0,Yopougon
+1156,Client_156,F,22,San Pedro,Fonctionnaire,1,355706.0,Bouaké
+1157,Client_157,F,35,Korhogo,Fonctionnaire,4,947471.0,Yopougon
+1158,Client_158,M,27,Abidjan,Fonctionnaire,13,1998946.0,Plateau
+1159,Client_159,F,29,Abidjan,Fonctionnaire,6,1892746.0,Cocody
+1160,Client_160,M,29,Korhogo,Fonctionnaire,9,2254679.0,Yopougon
+1161,Client_161,M,37,San Pedro,Fonctionnaire,12,1570674.0,Plateau
+1162,Client_162,F,25,Bouaké,Commerçant,14,1816864.0,Yopougon
+1163,Client_163,M,46,Abidjan,Fonctionnaire,9,668368.0,Bouaké
+1164,Client_164,F,37,Korhogo,Entrepreneur,14,1708073.0,Plateau
+1165,Client_165,M,51,Abidjan,Étudiant,15,1525758.0,Cocody
+1166,Client_166,M,50,Yamoussoukro,Entrepreneur,2,736267.0,Plateau
+1167,Client_167,M,40,San Pedro,Cadre,2,1134822.0,Cocody
+1168,Client_168,F,50,Yamoussoukro,Étudiant,7,798116.0,Bouaké
+1169,Client_169,M,52,Korhogo,Entrepreneur,5,287222.0,Yopougon
+1170,Client_170,M,49,San Pedro,Commerçant,14,1671215.0,Plateau
+1171,Client_171,F,55,Yamoussoukro,Cadre,7,1307130.0,Cocody
+1172,Client_172,M,50,Abidjan,Commerçant,11,239579.0,Plateau
+1173,Client_173,F,36,Bouaké,Étudiant,4,437771.0,Cocody
+1174,Client_174,M,35,Yamoussoukro,Commerçant,13,161893.0,Yopougon
+1175,Client_175,M,29,Korhogo,Fonctionnaire,13,881893.0,Plateau
+1176,Client_176,M,29,Abidjan,Fonctionnaire,13,1147957.0,Yopougon
+1177,Client_177,M,32,Yamoussoukro,Cadre,3,1915636.0,Plateau
+1178,Client_178,M,51,San Pedro,Fonctionnaire,9,607405.0,Bouaké
+1179,Client_179,M,60,Abidjan,Étudiant,5,2071169.0,Plateau
+1180,Client_180,M,51,San Pedro,Entrepreneur,11,602824.0,Bouaké
+1181,Client_181,F,25,Abidjan,Fonctionnaire,10,772157.0,Plateau
+1182,Client_182,M,38,Korhogo,Étudiant,9,1513926.0,Bouaké
+1183,Client_183,F,50,Korhogo,Étudiant,7,565984.0,Plateau
+1184,Client_184,M,48,San Pedro,Commerçant,7,1571582.0,Bouaké
+1185,Client_185,F,47,Abidjan,Fonctionnaire,7,1460818.0,Yopougon
+1186,Client_186,F,30,San Pedro,Cadre,2,508044.0,Plateau
+1187,Client_187,F,27,Yamoussoukro,Commerçant,9,401578.0,Yopougon
+1188,Client_188,M,47,Yamoussoukro,Entrepreneur,14,365780.0,Yopougon
+1189,Client_189,F,43,Abidjan,Étudiant,9,1042291.0,Cocody
+1190,Client_190,F,35,Abidjan,Fonctionnaire,14,2483146.0,Yopougon
+1191,Client_191,M,38,Korhogo,Commerçant,13,1949827.0,Plateau
+1192,Client_192,F,22,Bouaké,Fonctionnaire,12,1445975.0,Yopougon
+1193,Client_193,F,21,Bouaké,Commerçant,10,1831011.0,Plateau
+1194,Client_194,M,22,Abidjan,Étudiant,4,1727873.0,Bouaké
+1195,Client_195,F,42,Bouaké,Fonctionnaire,5,1510560.0,Plateau
+1196,Client_196,M,30,Bouaké,Étudiant,1,492177.0,Yopougon
+1197,Client_197,F,48,San Pedro,Étudiant,8,1887212.0,Yopougon
+1198,Client_198,M,53,Abidjan,Fonctionnaire,7,615105.0,Yopougon
+1199,Client_199,F,54,Yamoussoukro,Cadre,4,1807854.0,Plateau
+1200,Client_200,M,34,Yamoussoukro,Commerçant,13,725604.0,Yopougon
+1201,Client_201,F,41,Abidjan,Cadre,8,1956298.0,Cocody
+1202,Client_202,M,45,Korhogo,Commerçant,9,2493456.0,Yopougon
+1203,Client_203,M,46,Abidjan,Entrepreneur,1,2078349.0,Plateau
+1204,Client_204,F,57,San Pedro,Étudiant,7,1901935.0,Yopougon
+1205,Client_205,M,46,Abidjan,Fonctionnaire,3,2079786.0,Yopougon
+1206,Client_206,M,48,Abidjan,Commerçant,7,1829608.0,Plateau
+1207,Client_207,F,40,Yamoussoukro,Commerçant,6,855199.0,Plateau
+1208,Client_208,M,54,Korhogo,Commerçant,15,1615386.0,Yopougon
+1209,Client_209,M,36,Abidjan,Commerçant,5,977417.0,Cocody
+1210,Client_210,M,25,Bouaké,Entrepreneur,8,2032845.0,Yopougon
+1211,Client_211,F,30,San Pedro,Cadre,8,2004755.0,Yopougon
+1212,Client_212,F,58,Abidjan,Fonctionnaire,9,461178.0,Yopougon
+1213,Client_213,F,49,Abidjan,Cadre,6,1354088.0,Plateau
+1214,Client_214,M,60,Korhogo,Étudiant,7,2090753.0,Plateau
+1215,Client_215,F,57,Bouaké,Fonctionnaire,10,2144932.0,Cocody
+1216,Client_216,M,49,Abidjan,Fonctionnaire,12,503702.0,Cocody
+1217,Client_217,M,36,San Pedro,Entrepreneur,9,2342564.0,Cocody
+1218,Client_218,F,44,Yamoussoukro,Entrepreneur,7,1569214.0,Plateau
+1219,Client_219,F,25,Yamoussoukro,Cadre,9,1771367.0,Yopougon
+1220,Client_220,F,59,Bouaké,Fonctionnaire,2,743193.0,Yopougon
+1221,Client_221,F,46,Bouaké,Étudiant,12,505337.0,Yopougon
+1222,Client_222,F,42,Bouaké,Étudiant,2,1925895.0,Yopougon
+1223,Client_223,M,44,Yamoussoukro,Commerçant,4,1583329.0,Bouaké
+1224,Client_224,M,35,Bouaké,Commerçant,2,1390641.0,Plateau
+1225,Client_225,M,42,Korhogo,Commerçant,10,1730077.0,Cocody
+1226,Client_226,M,32,Korhogo,Commerçant,12,1985735.0,Plateau
+1227,Client_227,F,44,Bouaké,Entrepreneur,10,1345074.0,Bouaké
+1228,Client_228,M,55,Bouaké,Fonctionnaire,13,2117194.0,Cocody
+1229,Client_229,F,57,San Pedro,Entrepreneur,13,1331836.0,Bouaké
+1230,Client_230,F,31,Bouaké,Étudiant,3,1198589.0,Plateau
+1231,Client_231,F,44,Korhogo,Cadre,12,2313880.0,Plateau
+1232,Client_232,F,26,Bouaké,Fonctionnaire,8,2303157.0,Cocody
+1233,Client_233,F,26,Bouaké,Entrepreneur,15,1616266.0,Plateau
+1234,Client_234,F,24,San Pedro,Étudiant,6,1138924.0,Bouaké
+1235,Client_235,M,44,Bouaké,Cadre,6,565584.0,Yopougon
+1236,Client_236,M,29,Abidjan,Fonctionnaire,15,2131619.0,Cocody
+1237,Client_237,F,49,Korhogo,Cadre,15,482296.0,Plateau
+1238,Client_238,F,34,Bouaké,Étudiant,12,2363634.0,Bouaké
+1239,Client_239,M,39,Bouaké,Fonctionnaire,2,350275.0,Cocody
+1240,Client_240,F,60,San Pedro,Cadre,2,2246435.0,Plateau
+1241,Client_241,M,30,Yamoussoukro,Entrepreneur,1,1629817.0,Cocody
+1242,Client_242,F,32,Abidjan,Étudiant,6,433867.0,Plateau
+1243,Client_243,F,51,Abidjan,Entrepreneur,6,1213886.0,Plateau
+1244,Client_244,F,25,Yamoussoukro,Commerçant,12,584797.0,Yopougon
+1245,Client_245,M,23,Yamoussoukro,Étudiant,6,884377.0,Bouaké
+1246,Client_246,F,32,Bouaké,Cadre,12,2069647.0,Plateau
+1247,Client_247,F,33,Abidjan,Commerçant,15,325766.0,Yopougon
+1248,Client_248,F,53,San Pedro,Étudiant,8,1212474.0,Plateau
+1249,Client_249,M,39,Yamoussoukro,Cadre,14,1542193.0,Yopougon
+1250,Client_250,M,44,San Pedro,Entrepreneur,12,1994389.0,Bouaké
+1251,Client_251,F,32,San Pedro,Entrepreneur,6,2328000.0,Yopougon
+1252,Client_252,M,48,Abidjan,Entrepreneur,10,906889.0,Yopougon
+1253,Client_253,F,27,Abidjan,Fonctionnaire,11,1390003.0,Yopougon
+1254,Client_254,F,59,San Pedro,Commerçant,12,2011886.0,Yopougon
+1255,Client_255,F,23,Yamoussoukro,Étudiant,7,1301568.0,Plateau
+1256,Client_256,M,46,Yamoussoukro,Étudiant,13,821032.0,Plateau
+1257,Client_257,M,59,San Pedro,Cadre,3,431997.0,Cocody
+1258,Client_258,F,44,San Pedro,Étudiant,1,793566.0,Bouaké
+1259,Client_259,F,44,San Pedro,Cadre,10,727535.0,Yopougon
+1260,Client_260,F,41,Yamoussoukro,Commerçant,2,258688.0,Cocody
+1261,Client_261,F,54,San Pedro,Étudiant,2,1247970.0,Yopougon
+1262,Client_262,F,34,Korhogo,Fonctionnaire,12,2210242.0,Cocody
+1263,Client_263,M,29,Abidjan,Entrepreneur,3,2016931.0,Plateau
+1264,Client_264,F,43,Abidjan,Étudiant,9,1367867.0,Yopougon
+1265,Client_265,M,32,Yamoussoukro,Étudiant,4,659031.0,Cocody
+1266,Client_266,M,36,San Pedro,Cadre,6,2473734.0,Yopougon
+1267,Client_267,F,56,Bouaké,Étudiant,15,511613.0,Plateau
+1268,Client_268,F,46,San Pedro,Étudiant,7,1867288.0,Plateau
+1269,Client_269,M,41,Abidjan,Entrepreneur,8,2319965.0,Yopougon
+1270,Client_270,M,56,Korhogo,Commerçant,13,691203.0,Bouaké
+1271,Client_271,M,28,Korhogo,Commerçant,5,840621.0,Cocody
+1272,Client_272,F,35,Yamoussoukro,Étudiant,15,1341384.0,Plateau
+1273,Client_273,F,33,Korhogo,Fonctionnaire,3,1420138.0,Plateau
+1274,Client_274,M,58,Korhogo,Commerçant,3,1566079.0,Plateau
+1275,Client_275,M,26,Abidjan,Étudiant,5,1034194.0,Bouaké
+1276,Client_276,M,52,Korhogo,Fonctionnaire,11,1417074.0,Bouaké
+1277,Client_277,M,46,Yamoussoukro,Entrepreneur,2,401293.0,Cocody
+1278,Client_278,F,47,San Pedro,Entrepreneur,4,1576871.0,Cocody
+1279,Client_279,F,41,Yamoussoukro,Entrepreneur,3,1704158.0,Plateau
+1280,Client_280,F,36,San Pedro,Cadre,5,2035742.0,Cocody
+1281,Client_281,M,27,Abidjan,Fonctionnaire,7,1903784.0,Cocody
+1282,Client_282,M,41,Korhogo,Fonctionnaire,4,818330.0,Bouaké
+1283,Client_283,F,52,Yamoussoukro,Entrepreneur,1,527693.0,Bouaké
+1284,Client_284,F,36,Bouaké,Étudiant,6,354087.0,Plateau
+1285,Client_285,F,52,Korhogo,Entrepreneur,5,2401044.0,Plateau
+1286,Client_286,M,48,Bouaké,Fonctionnaire,12,1684182.0,Bouaké
+1287,Client_287,F,23,San Pedro,Cadre,10,966443.0,Yopougon
+1288,Client_288,F,25,San Pedro,Étudiant,8,2456267.0,Yopougon
+1289,Client_289,M,29,Abidjan,Entrepreneur,6,1572226.0,Yopougon
+1290,Client_290,M,33,Korhogo,Étudiant,7,2247478.0,Plateau
+1291,Client_291,M,23,Bouaké,Fonctionnaire,13,2137026.0,Bouaké
+1292,Client_292,M,59,Korhogo,Commerçant,6,1486011.0,Cocody
+1293,Client_293,F,60,Yamoussoukro,Étudiant,6,2277833.0,Bouaké
+1294,Client_294,F,51,Abidjan,Fonctionnaire,6,609714.0,Bouaké
+1295,Client_295,F,22,Korhogo,Entrepreneur,5,1104385.0,Plateau
+1296,Client_296,F,31,Korhogo,Étudiant,13,1744633.0,Cocody
+1297,Client_297,M,23,Korhogo,Cadre,4,229429.0,Bouaké
+1298,Client_298,F,47,Bouaké,Entrepreneur,12,1005183.0,Bouaké
+1299,Client_299,F,24,Bouaké,Étudiant,4,1513356.0,Bouaké
+1300,Client_300,F,41,Bouaké,Entrepreneur,15,2386096.0,Yopougon
