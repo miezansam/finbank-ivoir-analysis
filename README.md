@@ -2,7 +2,7 @@
 
 Projet réalisé dans le cadre du module **SAS**  Master 1 DATA-IA, Université Polytechnique de Bingerville (UPB), Année académique : 2025-2026.
 
-**Auteur :** YAO MIÉZAN SAM WILLIAM
+**Auteur :** YAO MIÉZAN SAM WILLIAM 
 **Enseignant :** M. N'DRAMAN
 
 ## Contexte
