@@ -1,4 +1,4 @@
-# Analyse de la Performance Commerciale et du Risque Client — FINBANK IVOIR
+# Analyse de la Performance Commerciale et du Risque Client de la banque FINBANK IVOIR
 ![SAS](https://img.shields.io/badge/SAS-9.4-1B79BC?logo=sas&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Quality_Control-brightgreen)
 ![Customer Segmentation](https://img.shields.io/badge/Segmentation-Client-informational)
