@@ -1,9 +1,16 @@
 # Analyse de la Performance Commerciale et du Risque Client — FINBANK IVOIR
+![SAS](https://img.shields.io/badge/SAS-9.4-1B79BC?logo=sas&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Quality_Control-brightgreen)
+![Customer Segmentation](https://img.shields.io/badge/Segmentation-Client-informational)
+![Risk Scoring](https://img.shields.io/badge/Risk-Scoring-red)
+![PROC SGPLOT](https://img.shields.io/badge/PROC_SGPLOT-Visualization-orange)
+![Banking Analytics](https://img.shields.io/badge/Banking-Analytics-blue)
 
-Projet réalisé dans le cadre du module **SAS**  Master 1 DATA-IA, Université Polytechnique de Bingerville (UPB), Année académique : 2025-2026.
+Projet réalisé dans le cadre du module **SAS**  Master 1 DATA-IA, Université Polytechnique de Bingerville (UPB).
 
 **Auteur :** YAO MIÉZAN SAM WILLIAM 
 **Enseignant :** M. N'DRAMAN
+**Année académique :** 2025-2026
 
 ## Contexte
 
